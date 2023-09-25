@@ -11,7 +11,7 @@ on:
   pull_request:
     branches:
       - master # Activate on pull request.
-
+#
 env:
   # Universal ENV variable containing path to all workflows scripts.
   # Each OS has it's own directory there: Windows, macOS, Linux.
